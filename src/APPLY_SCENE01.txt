@@ -1,0 +1,13 @@
+Scene 01 files prepared.
+
+Copy these paths into the repo:
+- src/componentLibs/ParticleBackground.tsx
+- src/componentLibs/MotionPrimitives.tsx
+- src/videos/2026/01_Find_Your_Niche/Scene01.tsx
+- src/Root.tsx
+- remotion.config.ts
+
+Then remove the old:
+- src/ParticleBackground.tsx
+
+The scene is 1920x1080, 30fps, 199 frames (~6.63s), and attaches the existing voice-over WAV from the repo.
